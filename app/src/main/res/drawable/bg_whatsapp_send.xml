@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true">
+        <ripple android:color="#40FFFFFF">
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="@color/whatsapp_green" />
+                </shape>
+            </item>
+        </ripple>
+    </item>
+    <item android:state_enabled="false">
+        <shape android:shape="oval">
+            <solid android:color="@color/whatsapp_green_disabled" />
+        </shape>
+    </item>
+</selector>

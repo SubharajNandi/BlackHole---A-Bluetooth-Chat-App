@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Swirling Accretion Disk (Cyan Glow) -->
+    <path
+        android:fillColor="#3000E5FF"
+        android:pathData="M54,54m-42,0a42,42 0 1,0 84,0a42,42 0 1,0 -84,0" />
+
+    <!-- Outer Purple Aura -->
+    <path
+        android:fillColor="#607C4DFF"
+        android:pathData="M54,54m-34,0a34,34 0 1,0 68,0a34,34 0 1,0 -68,0" />
+
+    <!-- Accretion Disk Bright Ring (Orange / Amber Photon Ring) -->
+    <path
+        android:fillColor="#FF9100"
+        android:pathData="M54,54m-26,0a26,26 0 1,0 52,0a26,26 0 1,0 -52,0" />
+
+    <!-- Inner Intense Cyan Photon Glow -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,54m-20,0a20,20 0 1,0 40,0a20,20 0 1,0 -40,0" />
+
+    <!-- White Rim Highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-17,0a17,17 0 1,0 34,0a17,17 0 1,0 -34,0" />
+
+    <!-- Central Event Horizon (Pure Void Black) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,54m-14,0a14,14 0 1,0 28,0a14,14 0 1,0 -28,0" />
+
+</vector>
